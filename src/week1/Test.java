@@ -12,6 +12,7 @@ public class Test {
         //same name with same age
         employmentManageSystem.addEmployee("A",26);
         employmentManageSystem.addEmployee("D",22);
+
         employmentManageSystem.printEmployees();
 
 
